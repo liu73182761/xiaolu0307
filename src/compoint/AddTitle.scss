@@ -1,0 +1,13 @@
+.containt {
+
+    display: flex; // 使 h1 和按钮横向排列
+  align-items: center;
+  justify-content: space-between;
+.h1:{
+    margin:0;
+    font-size: "12px";
+}
+.Button:{
+    height: auto; 
+}
+}
